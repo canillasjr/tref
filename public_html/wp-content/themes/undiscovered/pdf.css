@@ -1,0 +1,27 @@
+.t1{
+	font-size: 40px;
+	text-align: center;
+}
+.t2{
+	font-size: 25px;
+	text-align: center;
+}
+.t3{
+	font-size: 18px;
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+/*div{font-family: open-sans;}*/
+table{
+	background: #eee;
+	/*font-family: century gothic;*/
+}
+table tr td{
+	border: 1px solid white;
+	background: white;
+	width: 100%;
+}
+table.customer tr td{
+	width: 350px;
+}

@@ -1,0 +1,2 @@
+[01-Feb-2019 00:13:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/telderers/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 05:15:13 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/telderers/public_html/wp-includes/locale.php on line 10

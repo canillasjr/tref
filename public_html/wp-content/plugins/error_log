@@ -1,0 +1,4 @@
+[12-Jun-2018 08:42:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/telderers/public_html/wp-content/plugins/hello.php on line 60
+[10-Feb-2019 16:30:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telderers/public_html/wp-content/plugins/hello.php on line 60
+[10-Feb-2019 16:31:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telderers/public_html/wp-content/plugins/hello.php on line 60
+[05-Apr-2019 13:45:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telderers/public_html/wp-content/plugins/hello.php on line 60

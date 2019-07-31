@@ -1,0 +1,1 @@
+[01-Feb-2019 16:31:28 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/telderers/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
